@@ -53,7 +53,6 @@ Finally, a chatbot is also integrated which answers questions on fitness and fit
 
 ## How to run
 
-```
 - Go to the models directory
 ```
 cd models
