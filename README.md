@@ -52,9 +52,7 @@ Finally, a chatbot is also integrated which answers questions on fitness and fit
 - Make sure to put in your email id to allow form submission.(Change to be made in 1_🏠_Home.py file)
 
 ## How to run
-- Clone the repository
-```
-git clone https://github.com/Chandan-h-509/AI-Fitness-Trainer
+
 ```
 - Go to the models directory
 ```
