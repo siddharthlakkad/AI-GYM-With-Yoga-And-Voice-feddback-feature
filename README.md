@@ -24,14 +24,7 @@ Available Excercises:
 - Pushups
 - Shoulder Press
   
-Here is a sample video to track your left Bicep Curl:
 
-https://github.com/Chandan-h-509/AI-Fitness-Trainer/assets/76171489/7370a00c-0b7e-4df7-abee-3868ef94e286
-
- 
-Here is a sample video to track Shoulder Press:
-
-https://github.com/Chandan-h-509/AI-Fitness-Trainer/assets/76171489/0423948f-2fbc-4eb2-8b2b-0610a10a2040
 
 ## Nutrition Tracker
 - The user can track his/her nutrition by listing out the food items they ate for a particular meal.
