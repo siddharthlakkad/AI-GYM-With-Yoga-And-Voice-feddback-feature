@@ -30,8 +30,6 @@ Available Excercises:
 - The user can track his/her nutrition by listing out the food items they ate for a particular meal.
 - This helps one to monitor their food diet and adjust their next meal accordingly.
 
-https://github.com/Chandan-h-509/AI-Fitness-Trainer/assets/76171489/8b8a50cd-526d-4b55-834c-d1fb18b164ef
-
 Finally, a chatbot is also integrated which answers questions on fitness and fitness related queries.
 
 ## Tech Stack
